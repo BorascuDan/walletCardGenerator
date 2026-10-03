@@ -1,0 +1,16 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.example.demo -> ur domain",
+  "teamIdentifier": "ABCDE12345 -> apple team",
+  "organizationName": "Demo Co -> apple organization",
+
+  "serialNumber": "ur unique serial number",
+  "description": "Demo pass",
+  "generic": {
+    "headerFields": [],
+    "primaryFields": [],
+    "secondaryFields": [],
+    "auxiliaryFields": [],
+    "backFields": []
+  }
+}
